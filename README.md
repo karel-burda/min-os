@@ -1,9 +1,11 @@
 # MIN-OS #
 
+### Introduction ###
+**Please, keep in mind that this is rather old project I was working on in 2014 as only somewhat experienced engineer.** 
+
 = Minimalistic operating system for (my) educational purposes.
 
 ### Brief Info ###
-
 * One micro-kernel
 * Intended for x86 architecture
 * Currently running only in Real mode
